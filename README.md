@@ -6,7 +6,7 @@ This repository hosts static HTML files via **GitHub Pages** to create clean emb
 
 Copy this link to paste directly into Notion:
 
-* **Social_Media_Round Widget:** `https://chuck54l.github.io/notion_Widgets/Social_Media_Round.html`
+* **Social_Media_Round Widget:** `https://chuck54l.github.com/Notion_Widgets/Social_Media_Round.html`
 
 
 ---
